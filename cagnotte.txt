@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 blablabla
 =======
 nouveau code
+>>>>>>> cagnotte
+=======
+nouveau code 2
 >>>>>>> cagnotte
